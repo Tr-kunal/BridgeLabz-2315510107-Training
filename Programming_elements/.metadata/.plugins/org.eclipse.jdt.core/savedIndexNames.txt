@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\This PC\Desktop\BridgeLab\Programming_elements\.metadata\.plugins\org.eclipse.jdt.core
-1772469594.index
-1241056100.index
-1865797976.index
